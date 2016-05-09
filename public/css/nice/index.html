@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Theme-02</title>
+<link href='http://fonts.googleapis.com/css?family=Trocchi' rel='stylesheet' type='text/css' />
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="wrapper">
+  <div class="logo">Untitled</div>
+  <div class="menu">
+    <ul>
+      <li><a href="#" class="active">Home</a></li>
+      <li><a href="#">Company</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Solutions</a></li>
+      <li><a href="#">Contact Us</a></li>
+    </ul>
+  </div>
+  <div class="header">
+    <h1>Etiam risus elit aliquet etru</h1>
+    <h2>Duis sollicitudin lectus sit amet nisi porttitor laoreet. </h2>
+    <div class="header-button"><a href="#">More Info</a> </div>
+  </div>
+  <div class="banner-container">
+    <div class="banner-top"></div>
+    <div class="banner-middle"> <img src="images/banner-image.png" alt="themedemic" /> </div>
+    <div class="banner-bottom"></div>
+  </div>
+</div>
+<div class="panels-container">
+  <div class="panel-wrapper">
+    <div class="panel"> <img src="images/star.png" alt="themedemic" />
+      <h1>Done Olat</h1>
+      <h2>Nunc vitae ipsum utin </h2>
+      <ul>
+        <li class="panel-top"></li>
+        <li class="panel-middle">
+          <p>Vestibulum molestie augue int into elit semper in consequat tortor phare traroin quis ante enim, a condimetum </p>
+          <a href="#">Read More</a> </li>
+        <li class="panel-bottom"></li>
+      </ul>
+    </div>
+    <div class="panel"> <img src="images/star.png" alt="themedemic" />
+      <h1>Cond Time</h1>
+      <h2>Traroin semper vestibur</h2>
+      <ul>
+        <li class="panel-top"></li>
+        <li class="panel-middle">
+          <p>Cras fringilla, nisi sit amet dictum adipiscing, tellus purus consectetur massa, id sodales massa ante non augue. </p>
+          <a href="#">Read More</a> </li>
+        <li class="panel-bottom"></li>
+      </ul>
+    </div>
+    <div class="panel"> <img src="images/star.png" alt="themedemic" />
+      <h1>Phare Int</h1>
+      <h2>Torpor ipsum lorem din</h2>
+      <ul>
+        <li class="panel-top"></li>
+        <li class="panel-middle">
+          <p>Nulla scelerisque mattis odio, a porttitor orci porttitor a. Ut la<br />
+            cinia euismod velit, in posuere augue aliquet et.</p>
+          <a href="#">Read More</a> </li>
+        <li class="panel-bottom"></li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="columns-container">
+  <div class="columns-wrapper">
+    <div class="left-column">
+      <div class="left-column-panel">
+        <div class="left-column-panel-top"></div>
+        <div class="left-column-panel-middle">
+          <h1>Eget Nisi</h1>
+          <h2>Nulla congue ante</h2>
+          <div class="search">
+            <ul>
+              <li class="search-input">
+                <input type="text" class="search-input-textfield" />
+              </li>
+              <li class="search-button"><a href="#"><img src="images/search-icon.png" alt="themedemic" /></a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="left-column-panel-bottom"></div>
+      </div>
+      <div class="left-column-panel">
+        <div class="left-column-panel-top"></div>
+        <div class="left-column-panel-middle">
+          <h1>Ligu Auct</h1>
+          <h2>Honcus quis felision</h2>
+          <div class="sub-menu">
+            <ul>
+              <li><a href="#">Integer a sapien id diam tem</a></li>
+              <li><a href="#">Ut cursus nisl vel orci tristiqu</a></li>
+              <li><a href="#">Duis et odio tortor at rhoncus tel</a></li>
+              <li><a href="#">Tonec eget justo odio, pretium </a></li>
+              <li><a href="#">Nulla malesuada dui venenat</a></li>
+              <li><a href="#">In in purus at ligula dictum</a></li>
+              <li><a href="#">Aenean egestas sem vel tor</a></li>
+              <li><a href="#">Fusce gravida purus id leo</a></li>
+              <li><a href="#">Suspendisse in adipiscing justo</a></li>
+              <li><a href="#">Integer a sapien id diam tem</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="left-column-panel-bottom"></div>
+      </div>
+    </div>
+    <div class="right-column">
+      <div class="right-column-heading">
+        <h1>Aenean egestas sem vel </h1>
+        <h2>Maecenas eu metus sollicitudin sem euismod lobortis.</h2>
+      </div>
+      <div class="right-column-content">
+        <h1>Tonean nec orci nec sem</h1>
+        <h2>06-02-2012</h2>
+        <p>Maecenas id ipsum in elit tincidunt ullamcorper sit amet vel eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas porttitor accumsan mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+        <a href="#" class="more-button">Read More </a> </div>
+      <div class="right-column-content">
+        <h1>Praesent tempor malesuada</h1>
+        <h2>06-03-2012</h2>
+        <p>Maecenas id ipsum in elit tincidunt ullamcorper sit amet vel eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas porttitor accumsan mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+        <a href="#" class="more-button">Read More </a> </div>
+      <div class="right-column-content noborder">
+        <h1>Curabitur sit amet ligula est</h1>
+        <h2>06-04-2012</h2>
+        <p>Integer sodales mauris sed erat dignissim eleifend. Curabitur non lacus nisl, vel malesuada risus. Sed vehicula, est et pretium varius, ante lorem aliquam orci, a congue orci nisl et turpis. Duis non ante eget neque pretium lobortis sit amet at nulla. Nulla facilisi. </p>
+        <a href="#" class="more-button">Read More </a> </div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="copy-rights">Copyright (c) Untitled. Design by www.alltemplateneeds.com,  Photos by www.photorack.net</div>
+</div>
+</body>
+</html>
